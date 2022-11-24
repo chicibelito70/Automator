@@ -1,6 +1,5 @@
 from PIL import Image
-import os
-
+#Name of dirrection
 downloadsFolder = "/Users/Chici/"
 picturesFolder = "/Users/Chici/Pictures/"
 
